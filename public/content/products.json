@@ -206,5 +206,20 @@
     "datasheetUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/pdfs/1765285385421-1MRA4-2pdf.pdf",
     "manualUrl": "",
     "order": 6
+  },
+  {
+    "id": "product-1765291509616",
+    "name": "test2",
+    "nameEn": "test2",
+    "description": "test2",
+    "descriptionEn": "test2",
+    "features": [],
+    "featuresEn": [],
+    "ansiCodes": [],
+    "protocols": [],
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/products/1765291523562-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "datasheetUrl": "",
+    "manualUrl": "",
+    "order": 7
   }
 ]
