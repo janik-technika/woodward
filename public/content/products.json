@@ -1,0 +1,210 @@
+[
+  {
+    "id": "product-1",
+    "name": "EASYGEN 3000XT Series",
+    "description": "Nejnovější generace řídících automatů pro generátory s pokročilými funkcemi synchronizace a ochrany. Určeno pro náročné průmyslové aplikace.",
+    "features": [
+      "Pokročilé řízení generátorů",
+      "Automatická synchronizace",
+      "Integrovaná ochrana",
+      "Grafický displej",
+      "Rozšířená konektivita"
+    ],
+    "ansiCodes": [
+      "25",
+      "27",
+      "32",
+      "40",
+      "46",
+      "49",
+      "50",
+      "51",
+      "59",
+      "81"
+    ],
+    "protocols": [
+      "Modbus RTU/TCP",
+      "IEC 61850",
+      "DNP3",
+      "PROFIBUS"
+    ],
+    "datasheetUrl": "/pdfs/easygen-3000xt-datasheet.pdf",
+    "manualUrl": "/pdfs/easygen-3000xt-manual.pdf",
+    "imageUrl": "",
+    "order": 0
+  },
+  {
+    "id": "product-2",
+    "name": "HighPROTEC – MRA4-2",
+    "description": "Multifunkční ochranné relé pro ochranu motorů a generátorů. Nabízí kompletní řešení pro průmyslové aplikace.",
+    "features": [
+      "Ochrana motorů a generátorů",
+      "Měření a monitoring",
+      "Pokročilá diagnostika",
+      "Komunikační rozhraní",
+      "Kompaktní design"
+    ],
+    "ansiCodes": [
+      "27",
+      "37",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "59",
+      "66",
+      "86"
+    ],
+    "protocols": [
+      "IEC 61850",
+      "Modbus",
+      "PROFINET",
+      "Ethernet/IP"
+    ],
+    "datasheetUrl": "/pdfs/mra4-2-datasheet.pdf",
+    "manualUrl": "/pdfs/mra4-2-manual-new.pdf",
+    "imageUrl": "",
+    "order": 1
+  },
+  {
+    "id": "product-3",
+    "name": "HighPROTEC – MCDGV4-2",
+    "description": "Pokročilé ochranné relé pro distribuční sítě s komplexními funkcemi pro ochranu vedení a transformátorů.",
+    "features": [
+      "Směrová nadproudová ochrana",
+      "Zemní ochrana",
+      "Automatika opětného zapnutí",
+      "Distanční ochrana",
+      "Kontrola synchronizace"
+    ],
+    "ansiCodes": [
+      "21",
+      "25",
+      "27",
+      "50",
+      "51",
+      "59",
+      "67",
+      "79",
+      "81"
+    ],
+    "protocols": [
+      "IEC 61850",
+      "IEC 60870-5-103",
+      "Modbus",
+      "DNP3"
+    ],
+    "datasheetUrl": "/pdfs/mcdgv4-datasheet.pdf",
+    "manualUrl": "/pdfs/mcdgv4-manual-new.pdf",
+    "imageUrl": "",
+    "order": 2
+  },
+  {
+    "id": "product-4",
+    "name": "HighPROTEC – MRMV4-2",
+    "description": "Specializované ochranné relé pro transformátory s diferenciální ochranou a pokročilými funkcemi monitoringu.",
+    "features": [
+      "Diferenciální ochrana",
+      "Nadproudová ochrana",
+      "Ochrana proti přetížení",
+      "Monitoring teploty",
+      "REF ochrana"
+    ],
+    "ansiCodes": [
+      "26",
+      "49",
+      "50",
+      "51",
+      "63",
+      "64",
+      "87"
+    ],
+    "protocols": [
+      "IEC 61850",
+      "Modbus RTU/TCP",
+      "IEC 60870-5-103"
+    ],
+    "datasheetUrl": "/pdfs/mrmv4-datasheet.pdf",
+    "manualUrl": "/pdfs/mrmv4-manual-new.pdf",
+    "imageUrl": "",
+    "order": 3
+  },
+  {
+    "id": "product-5",
+    "name": "HighPROTEC – MCDTV4-2",
+    "description": "Kompaktní ochranné relé pro distribuční transformátory s integrovanými funkcemi měření a ochrany.",
+    "features": [
+      "Ochrana VN/NN transformátorů",
+      "Automatika přepínání odboček",
+      "Monitoring stavu",
+      "Analýza poruch",
+      "Vzdálená správa"
+    ],
+    "ansiCodes": [
+      "26",
+      "49",
+      "50",
+      "51",
+      "59",
+      "63",
+      "64",
+      "87"
+    ],
+    "protocols": [
+      "IEC 61850",
+      "Modbus",
+      "PROFINET"
+    ],
+    "datasheetUrl": "/pdfs/mcdtv4-datasheet.pdf",
+    "manualUrl": "/pdfs/mcdtv4-manual.pdf",
+    "imageUrl": "",
+    "order": 4
+  },
+  {
+    "id": "product-6",
+    "name": "Synchronizátory – SPM-D2",
+    "description": "Digitální synchronizační jednotka pro přesnou synchronizaci generátorů se sítí. Rychlá a spolehlivá synchronizace.",
+    "features": [
+      "Automatická synchronizace",
+      "Kontrola napětí a frekvence",
+      "Fázový úhel",
+      "Slip frekvence",
+      "Ruční/automatický režim"
+    ],
+    "ansiCodes": [
+      "25",
+      "27",
+      "59",
+      "81"
+    ],
+    "protocols": [
+      "Modbus RTU",
+      "Ethernet",
+      "CAN"
+    ],
+    "datasheetUrl": "/pdfs/spm-d2-datasheet.pdf",
+    "manualUrl": "",
+    "imageUrl": "",
+    "order": 5
+  },
+  {
+    "id": "product-1765285347234",
+    "name": "test",
+    "description": "test",
+    "features": [
+      "test"
+    ],
+    "ansiCodes": [
+      "1"
+    ],
+    "protocols": [
+      "test"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/products/1765285355117-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "datasheetUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/pdfs/1765285385421-1MRA4-2pdf.pdf",
+    "manualUrl": "",
+    "order": 6
+  }
+]
