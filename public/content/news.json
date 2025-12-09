@@ -6,5 +6,15 @@
     "date": "2025-12-09",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/news/1765285265335-7f8047283f1a5bb1a1365390648d0784.jpg",
     "published": true
+  },
+  {
+    "id": "news-1765291563503",
+    "title": "test2",
+    "titleEn": "testovací anglický text",
+    "content": "",
+    "contentEn": "",
+    "date": "2025-12-09",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/news/1765291582274-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "published": true
   }
 ]
