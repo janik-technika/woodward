@@ -230,7 +230,15 @@
     "datasheetUrl": "/pdfs/spm-d2-datasheet.pdf",
     "manualUrl": "",
     "imageUrl": "",
-    "order": 5
+    "order": 5,
+    "descriptionEn": "Digital synchronization unit for precise synchronization of generators with the grid. Fast and reliable synchronization.",
+    "featuresEn": [
+      "Automatic synchronization",
+      "Voltage and frequency control",
+      "Phase angle",
+      "Slip frequency",
+      "Manual/automatic mode"
+    ]
   },
   {
     "id": "product-1765285347234",
