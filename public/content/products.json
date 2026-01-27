@@ -27,8 +27,6 @@
       "IEC 61850",
       "DNP3",
       "PROFIBUS",
-      "",
-      "",
       ""
     ],
     "datasheetUrl": "/pdfs/easygen-3000xt-datasheet.pdf",
@@ -38,7 +36,11 @@
     "nameEn": "EASYGEN 3000XT Series",
     "descriptionEn": "The latest generation of generator controllers with innovative synchronization and protection functions. Designed for demanding industrial applications.",
     "featuresEn": [
-      "Advanced generator control"
+      "Advanced generator control",
+      "Integrated protection",
+      "Advanced connectivity",
+      "Automatic synchronization",
+      "Graphic display"
     ]
   },
   {
