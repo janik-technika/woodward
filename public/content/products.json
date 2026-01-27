@@ -76,7 +76,16 @@
     "datasheetUrl": "/pdfs/mra4-2-datasheet.pdf",
     "manualUrl": "/pdfs/mra4-2-manual-new.pdf",
     "imageUrl": "",
-    "order": 1
+    "order": 1,
+    "descriptionEn": "Multifunctional protection relay for motor and generator protection. Offers a complete solution for industrial applications.",
+    "nameEn": "HighPROTEC – MRA4-2",
+    "featuresEn": [
+      "Motor and generator protection",
+      "Measurement and monitoring",
+      "Advanced diagnostics",
+      "Communication interface",
+      "Compact design"
+    ]
   },
   {
     "id": "product-3",
