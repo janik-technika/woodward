@@ -118,7 +118,15 @@
     "datasheetUrl": "/pdfs/mcdgv4-datasheet.pdf",
     "manualUrl": "/pdfs/mcdgv4-manual-new.pdf",
     "imageUrl": "",
-    "order": 2
+    "order": 2,
+    "descriptionEn": "Advanced protection relay for distribution networks with comprehensive functions for line and transformer protection.",
+    "featuresEn": [
+      "Directional overcurrent protection",
+      "Earth protection",
+      "Automatic restart",
+      "Distance protection",
+      "Synchronization check"
+    ]
   },
   {
     "id": "product-4",
