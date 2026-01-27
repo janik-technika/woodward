@@ -156,7 +156,15 @@
     "datasheetUrl": "/pdfs/mrmv4-datasheet.pdf",
     "manualUrl": "/pdfs/mrmv4-manual-new.pdf",
     "imageUrl": "",
-    "order": 3
+    "order": 3,
+    "descriptionEn": "Specialized transformer protection relay with differential protection and advanced monitoring functions.",
+    "featuresEn": [
+      "Differential protection",
+      "Overcurrent protection",
+      "Overload protection",
+      "Temperature monitoring",
+      "REF protection"
+    ]
   },
   {
     "id": "product-5",
