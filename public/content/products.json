@@ -32,7 +32,8 @@
     "manualUrl": "/pdfs/easygen-3000xt-manual.pdf",
     "imageUrl": "",
     "order": 0,
-    "nameEn": "EASYGEN 3000XT Series"
+    "nameEn": "EASYGEN 3000XT Series",
+    "descriptionEn": "The latest generation of generator controllers with innovative synchronization and protection functions. Designed for demanding industrial applications."
   },
   {
     "id": "product-2",
