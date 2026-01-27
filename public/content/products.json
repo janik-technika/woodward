@@ -26,14 +26,20 @@
       "Modbus RTU/TCP",
       "IEC 61850",
       "DNP3",
-      "PROFIBUS"
+      "PROFIBUS",
+      "",
+      "",
+      ""
     ],
     "datasheetUrl": "/pdfs/easygen-3000xt-datasheet.pdf",
     "manualUrl": "/pdfs/easygen-3000xt-manual.pdf",
     "imageUrl": "",
     "order": 0,
     "nameEn": "EASYGEN 3000XT Series",
-    "descriptionEn": "The latest generation of generator controllers with innovative synchronization and protection functions. Designed for demanding industrial applications."
+    "descriptionEn": "The latest generation of generator controllers with innovative synchronization and protection functions. Designed for demanding industrial applications.",
+    "featuresEn": [
+      "Advanced generator control"
+    ]
   },
   {
     "id": "product-2",
