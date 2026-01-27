@@ -195,7 +195,15 @@
     "datasheetUrl": "/pdfs/mcdtv4-datasheet.pdf",
     "manualUrl": "/pdfs/mcdtv4-manual.pdf",
     "imageUrl": "",
-    "order": 4
+    "order": 4,
+    "descriptionEn": "Compact protection relay for distribution transformers with integrated measurement and protection functions.",
+    "featuresEn": [
+      "Protection of MV/LV transformers",
+      "Automatic tap-changing",
+      "Condition monitoring",
+      "Failure analysis",
+      "Remote management"
+    ]
   },
   {
     "id": "product-6",
