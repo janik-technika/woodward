@@ -1,0 +1,63 @@
+[
+  {
+    "id": "ref-easygen2000-1",
+    "title": "easYgen 2000",
+    "subtitleCS": "Zakázka Zemianske",
+    "subtitleEN": "Zemianske Project",
+    "descriptionCS": "Diferenciální ochrana ESDR4, multifunkční ochrana MFR3 a MFR1 v rozvaděči",
+    "descriptionEN": "Differential protection ESDR4, multifunctional protection MFR3 and MFR1 in switchboard",
+    "imageUrl1": "/assets/references/easygen-2000-panel.jpg",
+    "order": 0
+  },
+  {
+    "id": "ref-easygen2000-2",
+    "title": "easYgen 2000",
+    "subtitleCS": "Kogenerační zdroj Bratislava",
+    "subtitleEN": "Cogeneration source Bratislava",
+    "descriptionCS": "Použití diferenciální ochrany ESDR4, multifunkční ochrany MFR3 a MFR1 v rozvaděči. Společně pro aplikaci se 2 synchronními generátory AvK, 4MW – Kogenerační zdroj Bratislava",
+    "descriptionEN": "Use of differential protection ESDR4, multifunctional protection MFR3 and MFR1 in switchboard. Combined for application with 2 synchronous generators AvK, 4MW – Cogeneration source Bratislava",
+    "imageUrl1": "/assets/references/rozvadec.jpg",
+    "order": 1
+  },
+  {
+    "id": "ref-easygen350",
+    "title": "easYgen 350-50B/X",
+    "descriptionCS": "Použití řídící jednotky easYgen 350-50B/X v rozvaděčích v Maďarsku v roce 2013.",
+    "descriptionEN": "Use of easYgen 350-50B/X control unit in switchboards in Hungary in 2013.",
+    "imageUrl1": "/assets/references/easygen-350.jpg",
+    "order": 2
+  },
+  {
+    "id": "ref-mfr2-1",
+    "title": "Multifunkční ochrana MFR2",
+    "subtitleCS": "Elektrárna Přílepy u Litoměřic",
+    "subtitleEN": "Power plant Přílepy near Litoměřice",
+    "descriptionCS": "Použití multifunkční ochrany MFR2 v elektrárně v obci Přílepy u Litoměřic. Elektrárna byla uvedena do provozu v září 2010.",
+    "descriptionEN": "Use of multifunctional protection MFR2 in power plant in Přílepy near Litoměřice. The power plant was commissioned in September 2010.",
+    "imageUrl1": "/assets/references/elektrarny-litomerice.jpg",
+    "imageUrl2": "/assets/references/mfr2-panel.jpg",
+    "order": 3
+  },
+  {
+    "id": "ref-mfr2-2",
+    "title": "Multifunkční ochrana MFR2",
+    "subtitleCS": "Gabčíkovo – Slovensko",
+    "subtitleEN": "Gabčíkovo – Slovakia",
+    "descriptionCS": "Zařízení na využití nízkopotenciálního tepla v areálu Státní technické univerzity Bratislava v Gabčíkovo – Slovensko. Uvedení do provozu MFR2 v roce 2011 společně s generátorem Standard PI 144F2.",
+    "descriptionEN": "Low-potential heat utilization equipment at the State Technical University of Bratislava in Gabčíkovo – Slovakia. Commissioning of MFR2 in 2011 together with Standard PI 144F2 generator.",
+    "imageUrl1": "/assets/references/gabcikovo-panel.jpg",
+    "imageUrl2": "/assets/references/mfr2-display.jpg",
+    "order": 4
+  },
+  {
+    "id": "ref-1770806721057",
+    "title": "test",
+    "subtitleCS": "test",
+    "subtitleEN": "",
+    "descriptionCS": "test",
+    "descriptionEN": "",
+    "imageUrl1": "https://raw.githubusercontent.com/janik-technika/woodward/main/public/content/uploads/references/1770806756718-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "imageUrl2": "",
+    "order": 5
+  }
+]
